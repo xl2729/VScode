@@ -139,6 +139,6 @@ Ctrl+Shift+ ↑ / ↓ 向上/向下滚动
 Shift+ PgUp / PgDn 向上/向下滚动页面
 Shift+ Home / End 滚动到顶部/底部
 
-\*Alt+Click 手势可能不适用于某些 Linux 发行版。
-您可以将插入光标命令的修饰键更改为
-Ctrl+单击“editor.multiCursorModifier”设置。
+  \*Alt+Click 手势可能不适用于某些 Linux 发行版。
+  您可以将插入光标命令的修饰键更改为
+  Ctrl+单击“editor.multiCursorModifier”设置。
